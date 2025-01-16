@@ -7,9 +7,10 @@
 
 ###
 
-<a href="https://giphy.com/gifs/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW" target="_blank">
-  <img align="right" height="190" src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif"  />
+<a href="https://giphy.com/gifs/pudgypenguins-computer-computers-binary-njEAArNR1YWbByKISr" target="_blank">
+  <img align="right" height="190" src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" />
 </a>
+
 
 ###
 
